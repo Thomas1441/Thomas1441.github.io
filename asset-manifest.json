@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Thomas1441.github.io/static/css/main.5ae33e75.css",
+    "main.js": "/Thomas1441.github.io/static/js/main.76994477.js",
+    "static/media/work-together@3x.png": "/Thomas1441.github.io/static/media/work-together@3x.377390389c904f2a4e64.png",
+    "index.html": "/Thomas1441.github.io/index.html",
+    "main.5ae33e75.css.map": "/Thomas1441.github.io/static/css/main.5ae33e75.css.map",
+    "main.76994477.js.map": "/Thomas1441.github.io/static/js/main.76994477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae33e75.css",
+    "static/js/main.76994477.js"
+  ]
+}
