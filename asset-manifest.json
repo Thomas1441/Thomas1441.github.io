@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/Thomas1441.github.io/static/css/main.5ae33e75.css",
-    "main.js": "/Thomas1441.github.io/static/js/main.f1c0cc83.js",
+    "main.js": "/Thomas1441.github.io/static/js/main.297e2717.js",
+    "static/js/453.3c6c0a1b.chunk.js": "/Thomas1441.github.io/static/js/453.3c6c0a1b.chunk.js",
     "static/media/work-together@3x.png": "/Thomas1441.github.io/static/media/work-together@3x.377390389c904f2a4e64.png",
     "index.html": "/Thomas1441.github.io/index.html",
     "main.5ae33e75.css.map": "/Thomas1441.github.io/static/css/main.5ae33e75.css.map",
-    "main.f1c0cc83.js.map": "/Thomas1441.github.io/static/js/main.f1c0cc83.js.map"
+    "main.297e2717.js.map": "/Thomas1441.github.io/static/js/main.297e2717.js.map",
+    "453.3c6c0a1b.chunk.js.map": "/Thomas1441.github.io/static/js/453.3c6c0a1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ae33e75.css",
-    "static/js/main.f1c0cc83.js"
+    "static/js/main.297e2717.js"
   ]
 }
