@@ -1,2 +1,1 @@
-# Thomas1441.github.io
-Portafolio 
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/Thomas1441.github.io/favicon.ico"/><meta property="og:image" content="/Thomas1441.github.io/thumbnail.png"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000"/><meta name="description" content="Web site created using Locofy"/><title>Thomas Portafolio.3</title><script defer="defer" src="/Thomas1441.github.io/static/js/main.76994477.js"></script><link href="/Thomas1441.github.io/static/css/main.5ae33e75.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
